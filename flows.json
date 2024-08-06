@@ -427,7 +427,7 @@
     {
         "id": "cce387512c68b8c7",
         "type": "ui-page",
-        "name": "Control Central",
+        "name": "Control Bomba",
         "ui": "d53b6752ccb91e98",
         "path": "/control-bomba",
         "icon": "pump",
@@ -450,7 +450,7 @@
         ],
         "showPathInSidebar": false,
         "showPageTitle": true,
-        "navigationStyle": "default",
+        "navigationStyle": "icon",
         "titleBarStyle": "default"
     },
     {
